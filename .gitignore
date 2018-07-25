@@ -5,13 +5,13 @@
 .DS_Store
 
 # compiled sources
-/*.js
-/*.d.ts
-/recaptcha/**/*.js
-/recaptcha/**/*.d.ts
+#/*.js
+#/*.d.ts
+#/recaptcha/**/*.js
+#/recaptcha/**/*.d.ts
 
 # Angular AoT output
-*.metadata.json
+#*.metadata.json
 
 # Logs
 logs
